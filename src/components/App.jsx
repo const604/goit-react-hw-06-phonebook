@@ -1,5 +1,3 @@
-import { useState, useEffect } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
 import ContactForm from './ContactForm';
 import Filter from './Filter';
 import ContactList from './ContactList';
